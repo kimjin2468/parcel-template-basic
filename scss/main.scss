@@ -1,0 +1,10 @@
+$color--white:white;
+$color--black:black;
+
+body{
+    background: $color--black;
+    h1{
+        color: $color--white;
+        display: flex;
+    }
+}
